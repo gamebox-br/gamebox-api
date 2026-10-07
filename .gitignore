@@ -24,3 +24,13 @@ buildNumber.properties
    .idea/
    *.iml
    .vscode/
+
+# Segredos
+.env
+*.env
+!.env.example
+
+# IDEs
+.idea/
+*.iml
+.vscode/
